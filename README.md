@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Maxim Maly
+# 👋 Hi, I'm Maxim
 
 🎯 **Android Developer | Kotlin Enthusiast | Problem Solver**
 
@@ -71,7 +71,8 @@ Worked on multiple client projects across various domains:
 
 ## 📫 Let's Connect
 
-- ✉️ Email: [malyi.m.dev@gmail.com](mailto:malyi.m.dev@gmail.com)  
+- ✉️ Email: [malyi.m.dev@gmail.com](mailto:malyi.m.dev@gmail.com)
+- 💬 Telegram: [@MalyQq](https://t.me/MalyQq) 
 - 🌍 Based in Tyumen, Russia (open to relocation & remote work)  
 
 ---
